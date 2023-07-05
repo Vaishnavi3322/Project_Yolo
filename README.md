@@ -3,4 +3,5 @@
 2. A real-time detection will also take place in a pop-up window.
 3. The script takes various arguments which can be understood by runing the script with --help or -h flag.
 4. For testing purpose you can simply use the following command bu first you have to download the yolo-weights file from the below drive link and save it in the yolo-coco directory
+
 COMMAND: - python detector.py --input pedestrians.mp4 --output output.avi --display 1
